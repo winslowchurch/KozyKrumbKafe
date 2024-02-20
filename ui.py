@@ -7,7 +7,7 @@ class UI:
 		self.font = pygame.font.Font('assets/kozy.TTF', 55) 
 		self.smallFont = pygame.font.Font('assets/kozy.TTF', 45) 
 		self.textColor = (119,43,62,255)
-		self.moneyCount = 0
+		self.moneyCount = 100
 		self.inventory = item_inventory
 
 		# edit button
