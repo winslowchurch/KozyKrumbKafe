@@ -1,6 +1,5 @@
 ## 🍩🍰🥐 Kozy Krumb Kafe 🍩🍰🥐
-Earn money by serving customers, and use your money to decorate your bakery!
-It's like Good Pizza Great Pizza, but worse
+Have you ever wanted to play Good Pizza Great Pizza, but worse? Look no furthur! Earn money by serving customers, and use your money to decorate your bakery 👩🏼‍🍳
 
 ## How to play
 - Clone this repository and cd into code
