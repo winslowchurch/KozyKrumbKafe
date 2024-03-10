@@ -108,6 +108,9 @@ customers_list = {
     "Anna": "anna.png",
     "Zorro": "zorro.png",
     "Bikini": "bikini.png",
+    "Dad": "dad.png",
+    "Graydon": "graydon.png",
+    "Hudson": "hudson.png"
 }
 
 # food name and price

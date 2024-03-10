@@ -10,6 +10,7 @@ screen_width = 1200
 class Game:
 	def __init__(self):
 		self.create_rooms()
+		pygame.display.set_caption('Kozy Krumb Kafe')
 
 	def create_rooms(self):
 		self.display_surface = screen
